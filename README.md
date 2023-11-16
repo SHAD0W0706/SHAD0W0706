@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SHAD0W
+- 👀 I’m interested in coding, gaming, reading, math.
+- 🌱 I’m currently learning Python, Lua, HTML, JS, CSS, Kotlin, Go, and Swift.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ..................................
+
